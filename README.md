@@ -1,4 +1,4 @@
-###- 👋 Hi, I’m @Kaviyashri-Naidu
+#👋 Hi, I’m @Kaviyashri-Naidu
 - 👀 I’m interested in Coding 
 - 🌱 I’m currently learning Core JAVA
 
