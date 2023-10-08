@@ -1,6 +1,9 @@
-#👋 Hi, I’m @Kaviyashri-Naidu
-- 👀 I’m interested in Coding 
-- 🌱 I’m currently learning Core JAVA
+# 👋 Hi, It's me Kaviyashri here
+- ***Pursing Bachelor of Engineering***
+-  ***Stream : Information Science and Engineering***
+-  ***At M S Ramaiah Institute of Technology***
+- 👀 ***Energetic Programming skills***
+
 
 
 <!---
