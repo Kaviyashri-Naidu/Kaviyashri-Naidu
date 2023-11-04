@@ -1,4 +1,4 @@
-# 👋 Hi, It's me Kaviyashri here
+# 👋 Hi, It's me Kaviyashri 
 - ***Pursing Bachelor of Engineering***
 -  ***Stream : Information Science and Engineering***
 -  ***At M S Ramaiah Institute of Technology***
