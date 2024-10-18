@@ -1,5 +1,5 @@
 # 👋 Hi, It's me Kaviyashri 
-- ***Pursing Bachelor of Engineering***
+- ***Completed Bachelor of Engineering***
 -  ***Stream : Information Science and Engineering***
 -  ***At M S Ramaiah Institute of Technology***
 - 👀 ***Energetic Programming skills***
