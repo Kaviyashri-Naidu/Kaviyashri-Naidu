@@ -1,5 +1,6 @@
 # 👋 Hi, It's me Kaviyashri 
-- ***Completed Bachelor of Engineering***
+***AI Full Stack Developer***
+- ***Holds A Engineering graduation***
 -  ***Stream : Information Science and Engineering***
 -  ***At M S Ramaiah Institute of Technology***
 - 👀 ***Energetic Programming skills***
