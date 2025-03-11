@@ -13,25 +13,13 @@
 
 - **Languages**: C, Java, JavaScript, Python  
 - **Frontend**: HTML, CSS, React  
-- **Backend**: Node.js, .NET Framework, C#  
+- **Backend**: Node.js
 - **Database**: MySQL, DBMS  
 - **Tools & Environments**: VS Code, Eclipse, Jupyter Notebook, GitHub  
 - **Design**: Figma, Adobe Photoshop  
 
 ---
 
-## 🏆 Projects
-
-### 🚀 StegnoSync (Python)
-🔹 Secure data hiding tool with encryption and steganography.
-
-### 📊 Algorithm Bay/Visualizer (React, Node.js, JavaScript)
-🔹 A multi-user system for visualizing algorithms with audio explanations.
-
-### 🏢 HRMS (Human Resource Management System)
-🔹 Built an end-to-end HRMS system using **.NET Framework, C# & ASP.NET**.
-
----
 
 ## 🎯 Work Experience
 
@@ -44,7 +32,7 @@
 ---
 
 ## 📚 Education
-🎓 **BSc in Information Science/Technology** (MS Ramaiah Institute of Technology)  
+🎓 **BE in Information Science/Technology** (MS Ramaiah Institute of Technology)  
 📆 **Expected Graduation**: May 2024  
 📊 **CGPA**: 7.66  
 
