@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Kaviyashri S A
 
-### 💻 Software Engineer | Web Developer | UI/UX Enthusiast  
+### 💻 Software Engineer| Reactjs Full-stack | Python Full Stack Developer | Web Developer | UI/UX Enthusiast  
 
 🔹 Passionate about coding, problem-solving, and building scalable applications.  
 🔹 Experienced in **C, Java, JavaScript, Python**, and Web Development (**React, HTML, CSS**).  
