@@ -5,7 +5,7 @@
 🔹 Passionate about coding, problem-solving, and building scalable applications.  
 🔹 Experienced in **C, Java, JavaScript, Python**, and Web Development (**React, HTML, CSS**).  
 🔹 Strong foundation in **OOP, DBMS, and MySQL**.  
-🔹 Love working with **Figma & Adobe Photoshop** for UI/UX designs.  
+🔹 Love working with **Figma & Adobe Photoshop** for UI/UX designs, **PowerBi** for creating interactive Visualization.  
 
 ---
 
