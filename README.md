@@ -15,7 +15,7 @@
 - **Frontend**: HTML, CSS, React  
 - **Backend**: Node.js
 - **Database**: MySQL, DBMS  
-- **Tools & Environments**: VS Code, Eclipse, Jupyter Notebook, GitHub  
+- **Tools & Environments**: VS Code, Eclipse, Jupyter Notebook, GitHub, PowerBi  
 - **Design**: Figma, Adobe Photoshop  
 
 ---
